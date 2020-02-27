@@ -31,4 +31,5 @@ public class Car {
 		return "Car [speed=" + speed + ", color=" + color + "]";
 	}
 
+	
 }
